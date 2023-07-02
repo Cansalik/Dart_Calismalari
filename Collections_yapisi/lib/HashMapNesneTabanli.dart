@@ -22,7 +22,7 @@ void main()
 
     if(kisi != null)
     {
-      print("*** *** ***");
+      print("*** ** ***");
       print("Kişi No: ${kisi.tcno}");
       print("Kişi Ad: ${kisi.ad}");
     }

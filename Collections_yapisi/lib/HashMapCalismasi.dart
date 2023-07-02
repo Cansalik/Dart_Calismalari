@@ -31,7 +31,6 @@ import 'dart:collection';
       {
         print("Sonuç: ${iller[a]}");
       }
-
       iller.remove(02);
       print(iller);
       iller.clear();

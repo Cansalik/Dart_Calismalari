@@ -1,5 +1,6 @@
 class Kisiler
 {
+
   late int tcno;
   late String ad;
 
